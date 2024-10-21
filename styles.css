@@ -1,0 +1,53 @@
+.c1{
+    text-align: center; 
+   }
+   .menu{
+       text-align: center;
+   }  
+   
+    
+   .image5{
+   
+   width: 700px;
+   height: 359px;
+   
+   }
+   .firstmeal{
+       display: inline-flex;
+       margin-left: 150px;
+       width: 200px;
+       height: 100px;
+   }
+   
+   
+   
+   
+   .img7{
+   width: 350px ;
+   
+   
+   }
+    .img44{ 
+
+        width: 350px;
+        height: 350px;
+    }
+    .img55{
+
+        width: 350px;
+        height: 350px;
+
+
+    }
+
+.body{
+
+    background-color:lightgrey;
+}
+footer{
+    background-color: black;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+}
